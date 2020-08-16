@@ -1,0 +1,4 @@
+# dependencies
+db.sqlite3
+*.png
+*.jpg
